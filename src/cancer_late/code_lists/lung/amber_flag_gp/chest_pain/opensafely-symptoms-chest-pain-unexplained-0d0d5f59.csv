@@ -1,0 +1,117 @@
+,code,term
+0,10000006,Radiating chest pain
+1,102587001,Acute chest pain
+2,102588006,Chest wall pain
+3,102589003,Atypical chest pain
+4,102591006,Chest wall tenderness
+5,103015000,Thoracic nerve root pain
+6,1075631000119107,Pain of right sternoclavicular joint
+7,1075651000119101,Pain of left sternoclavicular joint
+8,13057000,Pleuropericardial chest pain
+9,139228007,Chest pain
+10,139230009,Central chest pain
+11,139231008,Precordial pain
+12,139232001,Anterior chest wall pain
+13,139234000,Parasternal pain
+14,139236003,Atypical chest pain
+15,139237007,Retrosternal pain
+16,139238002,Chest pain on exertion
+17,139239005,Rib pain
+18,139240007,Chest pain NOS
+19,158393008,[D]Chest pain
+20,158394002,[D]Precordial pain
+21,158396000,[D]Anterior chest wall pain
+22,158399007,[D]Chest discomfort
+23,158402008,Retrosternal pain [D]
+24,158403003,[D]Musculoskeletal chest pain
+25,158404009,[D]Chest pain NOS
+26,161972006,Central chest pain
+27,161973001,Anterior chest wall pain
+28,161974007,Parasternal pain
+29,161976009,Rib pain
+30,161977000,Costal margin chest pain
+31,161978005,Chest pain NOS
+32,162425003,Chest wall tenderness
+33,202478007,Sternoclavicular joint pain
+34,203523006,Costochondritis
+35,207078009,[D]Chest pain
+36,207079001,[D](Chest pain: (unspecified) or (retrosternal))
+37,207080003,[D]Precordial pain
+38,207081004,[D]Anterior chest wall pain
+39,207082006,[D]Painful respiration NOS
+40,207085008,[D]Chest discomfort
+41,207088005,[D]Parasternal chest pain
+42,207089002,[D]Musculoskeletal chest pain
+43,207090006,[D]Non-cardiac chest pain
+44,207091005,[D]Retrosternal chest pain
+45,207092003,[D]Central chest pain
+46,207093008,[D]Chest pain NOS
+47,207583009,[X]Other chest pain
+48,2237002,Pleuritic pain
+49,233845001,Cardiac syndrome X
+50,239671000000106,Cardiac chest pain
+51,240136001,Costochondritis NOS
+52,247389006,Intercostal neuralgia
+53,271330001,"[D]Chest pain, unspecified"
+54,274253004,[D]Retrosternal pain
+55,274664007,Chest pain on breathing
+56,274668005,Non-cardiac chest pain
+57,279019008,Central crushing chest pain
+58,279036000,Myofascial pain syndrome of thorax
+59,279084009,Chest discomfort
+60,281245003,Musculoskeletal chest pain
+61,285385002,Left sided chest pain
+62,285386001,Right sided chest pain
+63,285389008,Upper chest pain
+64,297217002,Rib pain
+65,29857009,Chest pain
+66,298729007,Sternum tender
+67,298731003,Pain of sternum
+68,298740004,Rib tender
+69,30128009,Tietze's disease
+70,308150007,[D]Retrosternal chest pain
+71,309552003,[D]Painful respiration
+72,313438003,[D]Central chest pain
+73,3368006,Dull chest pain
+74,366958004,Chest wall pain
+75,367183005,Chest wall pain
+76,36859004,Esophageal chest pain
+77,371030007,Squeezing chest pain
+78,393606005,Costochondritis
+79,397721000000106,[D]Chest pain NOS
+80,41821000119108,Strain of intercostal muscle
+81,425421000000105,[X]Other chest pain
+82,426396005,Cardiac chest pain
+83,430894003,Strain of muscle of chest wall
+84,43470008,Pain in heart
+85,440571000000100,[D]Painful respiration NOS
+86,444821009,Assessment of chest pain
+87,4568003,Retrosternal pain
+88,471551000000103,[D]Chest pain NOS
+89,498151000000109,[D]Chest pain
+90,498161000000107,[D]Precordial pain
+91,498171000000100,[D]Anterior chest wall pain
+92,498201000000104,[D]Chest discomfort
+93,498231000000105,[D]Parasternal chest pain
+94,498241000000101,[D]Musculoskeletal chest pain
+95,498251000000103,[D]Non-cardiac chest pain
+96,502141000000102,"[D]Chest pain, unspecified"
+97,502361000000104,[D]Retrosternal pain
+98,502641000000109,[D]Retrosternal chest pain
+99,502711000000102,[D]Painful respiration
+100,502911000000100,[D]Central chest pain
+101,559961000000104,Chest pain NOS
+102,59139008,Crushing chest pain
+103,621811000000103,Costochondritis NOS
+104,64109004,Costal chondritis
+105,71884009,Precordial pain
+106,721908003,Strain of muscle of anterior chest wall
+107,735940001,Pain of intercostal space
+108,75483001,Breathing painful
+109,7921000119104,Anterior pleuritic pain
+110,81953000,Chest pain on exertion
+111,89638008,Xiphodynia
+112,89874002,Xiphoidalgia syndrome
+113,9267009,Chest pain at rest
+114,95421005,Intercostal myalgia
+115,97001000119106,Localized chest pain

@@ -1,0 +1,7 @@
+,ICD10,Description,NICE_matching
+0,R53,Malaise and fatigue,fatigue
+1,R05,Cough,cough
+2,R06,Abnormalities of breathing,shortness_breath
+3,R07,Pain in throat and chest,chest_pain
+4,R634,Abnormal weight loss,weight_loss
+5,R630,Loss of appetite,appetite_loss

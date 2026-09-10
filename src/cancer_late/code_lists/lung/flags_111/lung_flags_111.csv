@@ -1,0 +1,6 @@
+,symptom_111,grouping,NICE_matching
+0,Breathing_Problems_Breathlessness_or_Wheeze,amber_flag,shortness_breath
+1,Chest_and_Upper_Back_Pain,amber_flag,chest_pain
+2,Cough,amber_flag,cough
+3,Coughing_up_Blood,red_flag,haemoptysis
+4,Tiredness_Fatigue,amber_flag,fatigue

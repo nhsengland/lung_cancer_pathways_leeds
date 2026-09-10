@@ -1,0 +1,12 @@
+,ECDS_Group1,ECDS_Description,SNOMED_Code,SNOMED_UK_Preferred_Term,SNOMED_Fully_Specified_Name,grouping,NICE_matching
+0,Airway / breathing,Coughing up blood (haemoptysis),66857006,Haemoptysis,Hemoptysis (finding),red_flag,haemoptysis
+1,Head and neck,Throat : cough,49727002,Cough,Cough (finding),amber_flag,cough
+2,Airway / breathing,Short of breath,267036007,Dyspnoea,Dyspnea (finding),amber_flag,shortness_breath
+3,Airway / breathing,Difficulty breathing,230145002,Difficulty breathing,Difficulty breathing (finding),amber_flag,shortness_breath
+4,Circulation / chest,Chest pain,29857009,Chest pain,Chest pain (finding),amber_flag,chest_pain
+5,Gastrointestinal,Loss of appetite,79890006,Loss of appetite,Loss of appetite (finding),amber_flag,appetite_loss
+6,Gastrointestinal,Nausea without vomiting,422587007,Nausea,Nausea (finding),amber_flag,nausea_vomiting
+7,Gastrointestinal,Vomiting + / - nausea,422400008,Vomiting,Vomiting (disorder),amber_flag,nausea_vomiting
+8,Gastrointestinal,Abdominal pain,21522001,Abdominal pain,Abdominal pain (finding),amber_flag,abdominal_pain
+9,Musculoskeletal,Backache (no recent injury),161891005,Backache,Backache (finding),amber_flag,back_pain
+10,General,Generalised weakness,13791008,Asthenia,Asthenia (finding),amber_flag,fatigue

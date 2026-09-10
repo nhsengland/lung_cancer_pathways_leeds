@@ -1,0 +1,113 @@
+,code,term
+0,10361001,Exhaustion delirium
+1,123087006,Sluggishness
+2,13791008,Asthenia
+3,138414008,M.E.Association member
+4,139124002,"[Tiredness], [fatigue], [lethargy] or [malaise] symptom"
+5,139126000,Fatigue
+6,139127009,Tired all the time
+7,139128004,(Malaise: [/lethargy] or [debility]) or (overwork) or (postviral syndrome)
+8,139131003,Tiredness symptom NOS
+9,139512001,Weakness present
+10,154890009,(Nervous debility - neurasthenia) or (nervous exhaustion) or (TATT - tired all the time)
+11,154989001,Postinfective encephalitis (& [myalgic encephalitis] or [myalgic encephalomyelitis])
+12,154991009,Encephalitis/myelitis: [NOS] or [encephalomyelitis & (myalgic)]
+13,155062000,Chronic fatigue syndrome
+14,157744003,Exhaustion due to exposure
+15,157746001,(Effects of the elements NOS) or (overexertion exhaustion)
+16,157748000,Exhaustion due to excessive exertion
+17,158122000,[D]Drowsiness
+18,158167007,[D]Malaise and fatigue
+19,158169005,[D]Fatigue
+20,158170006,Asthenia [D]
+21,158171005,[D]Lethargy
+22,158173008,[D]Malaise and fatigue NOS
+23,161868006,"""([Tiredness] or [fatigue] or [lethargy] or [malaise] symptom) or (C/O """"muzzy head"""")"""
+24,161870002,Tired all the time (& [C/O -])
+25,161871003,(Malaise/lethargy) or (C/O: [debility - malaise] or [overwork] or [postviral syndrome])
+26,161875007,Tiredness symptom NOS
+27,191741007,(Neurasthenia - nervous debility) or (nervous exhaustion) or
+28,192439005,Neurasthenia
+29,192735003,Other causes of encephalitis (& [myalgic encephalomyelitis] or [encephalomyelitis NOS])
+30,193054000,Chronic fatigue syndrome
+31,206711009,[D]Drowsiness
+32,206765009,[D]Malaise and fatigue
+33,206767001,[D]Fatigue
+34,206768006,[D]Asthenia NOS
+35,206769003,[D]Lethargy
+36,206771003,[D]Tiredness
+37,206773000,[D]Malaise and fatigue NOS
+38,214264003,Lethargy
+39,224960004,Tired
+40,242015007,Exhaustion - physiological
+41,247372003,Chronic fatigue syndrome
+42,248268002,Tires quickly
+43,248269005,Tired on least exertion
+44,248270006,Quickly exhausted
+45,248271005,Exhausted on least exertion
+46,248274002,Lack of energy
+47,248275001,Lack of vitality
+48,248278004,Attacks of weakness
+49,267031002,Tiredness symptom
+50,267032009,Tired all the time
+51,267033004,Malaise/lethargy
+52,267160008,"[Tiredness], [fatigue], [lethargy] or [malaise] symptom"
+53,267161007,(Malaise: [/lethargy] or [debility]) or (overwork) or (postviral syndrome)
+54,267683005,Postinfective encephalitis (& [myalgic encephalitis] or [myalgic encephalomyelitis])
+55,267684004,Encephalitis/myelitis: [NOS] or [encephalomyelitis & (myalgic)]
+56,268631001,Neurasthenia
+57,268754004,(Nervous debility - neurasthenia) or (nervous exhaustion) or (TATT - tired all the time)
+58,269429009,(Effects of the elements NOS) or (overexertion exhaustion)
+59,271795006,Malaise and fatigue
+60,271797003,Lethargy
+61,271798008,Chronic fatigue syndrome
+62,272036004,Complaining of debility and malaise
+63,272060000,Fatigue - symptom
+64,272062008,"""Complaining of """"tired all the time"""""""
+65,274236006,[D]Asthenia
+66,274638001,Asthenia
+67,279123003,Exhausting
+68,302758002,Tiredness
+69,314109004,Feeling tired
+70,323341000000102,Anxiety about lethargy
+71,366947008,Exhaustion
+72,367172001,Exhaustion
+73,367392001,Lacking in energy
+74,372601000000101,Activity management for chronic fatigue syndrome
+75,377161000000108,Severe chronic fatigue syndrome
+76,377171000000101,Moderate chronic fatigue syndrome
+77,377181000000104,Mild chronic fatigue syndrome
+78,414631000000100,[D]Malaise and fatigue NOS
+79,439201000000104,[D]Asthenia NOS
+80,442099003,Psychogenic fatigue
+81,444042007,Excessive postexertional fatigue
+82,46219009,Neurocirculatory asthenia
+83,463761000000103,[D]Malaise and fatigue NOS
+84,480621000000108,Severe chronic fatigue syndrome 
+85,487011000000107,Activity management for chronic fatigue syndrome 
+86,490851000000100,Activity management for chronic fatigue syndrome 
+87,491281000000101,Mild chronic fatigue syndrome 
+88,491291000000104,Moderate chronic fatigue syndrome 
+89,495371000000106,[D]Drowsiness
+90,495751000000103,[D]Malaise and fatigue
+91,495771000000107,[D]Fatigue
+92,495781000000109,[D]Lethargy
+93,495801000000105,[D]Tiredness
+94,502201000000109,[D]Asthenia
+95,508581000000104,Post-exertional fatigue
+96,51771007,Postviral fatigue syndrome
+97,520511000000101,Referral to chronic fatigue syndrome specialist team
+98,520521000000107,Referral to chronic fatigue syndrome/myalgic encephalomyelitis specialist team 
+99,522991000000100,Referral for chronic fatigue syndrome activity management
+100,523001000000101,Referral for chronic fatigue syndrome activity management 
+101,52663000,Lethargy
+102,52702003,Chronic fatigue syndrome
+103,580521000000101,Tiredness symptom NOS
+104,58535001,Physical AND emotional exhaustion state
+105,60119000,Exhaustion
+106,64113006,Exhaustion due to excessive exertion
+107,713121000,Management of fatigue
+108,713568000,Occasionally tired
+109,84229001,Fatigue
+110,84946008,Extreme exhaustion
+111,88164008,Exhaustion due to exposure

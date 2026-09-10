@@ -1,0 +1,64 @@
+,code,term
+0,F239,"Acute and transient psychotic disorder, unspecified"
+1,F23,Acute and transient psychotic disorders
+2,F231,Acute polymorphic psychotic disorder with symptoms of schizophrenia
+3,F230,Acute polymorphic psychotic disorder without symptoms of schizophrenia
+4,F232,Acute schizophrenia-like psychotic disorder
+5,F31,Bipolar affective disorder
+6,F310,"Bipolar affective disorder, current episode hypomanic"
+7,F312,"Bipolar affective disorder, current episode manic with psychotic symptoms"
+8,F311,"Bipolar affective disorder, current episode manic without psychotic symptoms"
+9,F313,"Bipolar affective disorder, current episode mild or moderate depression"
+10,F316,"Bipolar affective disorder, current episode mixed"
+11,F315,"Bipolar affective disorder, current episode severe depression with psychotic symptoms"
+12,F314,"Bipolar affective disorder, current episode severe depression without psychotic symptoms"
+13,F317,"Bipolar affective disorder, currently in remission"
+14,F319,"Bipolar affective disorder, unspecified"
+15,F202,Catatonic schizophrenia
+16,F220,Delusional disorder
+17,F32,Depressive episode
+18,F329,"Depressive episode, unspecified"
+19,F201,Hebephrenic schizophrenia
+20,F300,Hypomania
+21,F24,Induced delusional disorder
+22,F24X,Induced delusional disorder
+23,F302,Mania with psychotic symptoms
+24,F301,Mania without psychotic symptoms
+25,F30,Manic episode
+26,F309,"Manic episode, unspecified"
+27,F238,Other acute and transient psychotic disorders
+28,F233,Other acute predominantly delusional psychotic disorders
+29,F318,Other bipolar affective disorders
+30,F328,Other depressive episodes
+31,F308,Other manic episodes
+32,F28,Other nonorganic psychotic disorders
+33,F28X,Other nonorganic psychotic disorders
+34,F228,Other persistent delusional disorders
+35,F338,Other recurrent depressive disorders
+36,F258,Other schizoaffective disorders
+37,F208,Other schizophrenia
+38,F200,Paranoid schizophrenia
+39,F229,"Persistent delusional disorder, unspecified"
+40,F22,Persistent delusional disorders
+41,F204,Post-schizophrenic depression
+42,F33,Recurrent depressive disorder
+43,F333,"Recurrent depressive disorder, current episode severe with psychotic symptoms"
+44,F332,"Recurrent depressive disorder, current episode severe without psychotic symptoms"
+45,F334,"Recurrent depressive disorder, currently in remission"
+46,F339,"Recurrent depressive disorder, unspecified"
+47,F205,Residual schizophrenia
+48,F251,"Schizoaffective disorder, depressive type"
+49,F250,"Schizoaffective disorder, manic type"
+50,F252,"Schizoaffective disorder, mixed type"
+51,F259,"Schizoaffective disorder, unspecified"
+52,F25,Schizoaffective disorders
+53,F20,Schizophrenia
+54,F209,"Schizophrenia, unspecified"
+55,F21,Schizotypal disorder
+56,F21X,Schizotypal disorder
+57,F323,Severe depressive episode with psychotic symptoms
+58,F322,Severe depressive episode without psychotic symptoms
+59,F206,Simple schizophrenia
+60,F203,Undifferentiated schizophrenia
+61,F29,Unspecified nonorganic psychosis
+62,F29X,Unspecified nonorganic psychosis

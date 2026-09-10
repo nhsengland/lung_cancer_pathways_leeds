@@ -1,0 +1,9 @@
+,ICD10,Description,NICE_matching
+0,R04,Haemorrhage from respiratory passages,haemoptysis
+1,J20,Other_acute_lower_respiratory_infections,chest_infection
+2,J21,Other_acute_lower_respiratory_infections,chest_infection
+3,J22,Other_acute_lower_respiratory_infections,chest_infection
+4,R683,Clubbing of fingers,finger_clubbing
+5,C770,"Lymph nodes of head, face and neck",supraclavicular_lymphadenopathy
+6,R590,Cervical Lymphadenopathy,cervical_lymphadenopathy
+7,D473,Essential (haemorrhagic) thrombocythaemia,thrombocytosis

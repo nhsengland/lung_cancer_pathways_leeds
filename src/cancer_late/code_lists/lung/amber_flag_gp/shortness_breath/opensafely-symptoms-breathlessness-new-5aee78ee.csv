@@ -1,0 +1,152 @@
+,code,term
+0,102577000,Trepopnea
+1,1047261000000103,Breathlessness care management
+2,1049241000000109,Opioid therapy for breathlessness management
+3,1060991000000107,Medical Research Council Breathlessness Scale grade 5a
+4,1061001000000106,Medical Research Council Breathlessness Scale grade 5b
+5,1089971000000104,Extended Medical Research Council dyspnoea scale grade 1
+6,1089981000000102,Extended Medical Research Council dyspnoea scale grade 2
+7,1089991000000100,Extended Medical Research Council dyspnoea scale grade 3
+8,1090001000000101,Extended Medical Research Council dyspnoea scale grade 5a
+9,1090011000000104,Extended Medical Research Council dyspnoea scale grade 4
+10,1090021000000105,Extended Medical Research Council dyspnoea scale grade 5b
+11,1099381000000100,Modified Medical Research Council dyspnoea scale grade 1
+12,1099391000000103,Modified Medical Research Council dyspnoea scale grade 2
+13,1099401000000100,Modified Medical Research Council dyspnoea scale grade 3
+14,1099411000000103,Modified Medical Research Council dyspnoea scale grade 4
+15,119981000146107,Dyspnea caused by Severe acute respiratory syndrome coronavirus 2
+16,139192008,(Symptom: [SOB] or [breathlessness] or [dyspnoea]) or (breathlessness)
+17,139194009,Breathless - moderate exertion
+18,139195005,Breathless - mild exertion
+19,139196006,Dyspnoea at rest
+20,139197002,(Breathless - lying flat) or (orthopnoea symptom)
+21,139198007,Paroxysmal nocturnal dyspnoea
+22,139201002,Dyspnoea
+23,139204005,Dyspnoea on exertion
+24,139207003,Breathlessness NOS
+25,140107002,O/E - dyspnoea
+26,140108007,O/E - orthopnoea
+27,140109004,O/E - respiratory distress
+28,158371003,[D]Dyspnoea
+29,158373000,[D]Orthopnoea
+30,158377004,[D]Respiratory distress
+31,158379001,[D]Shortness of breath
+32,161937008,(Symptom: [SOB] or [breathlessness] or [dyspnoea]) or (breathlessness)
+33,161939006,Breathless - moderate exertion
+34,161940008,Breathless - mild exertion
+35,161941007,Dyspnea at rest
+36,161942000,(Breathless - lying flat) or (orthopnoea symptom)
+37,161946002,Dyspnoea
+38,161948001,Dyspnoea on exertion
+39,161951008,Breathlessness NOS
+40,162890008,On examination - dyspnea
+41,162891007,On examination - orthopnea
+42,162895003,On examination - accessory respiratory muscles used
+43,162900004,On examination - air hunger
+44,162916002,On examination - tachypnea
+45,17216000,"Dyspnea, class I"
+46,20112008,Dyspnea leaning over
+47,207051007,[D]Orthopnea
+48,207055003,[D]Respiratory distress
+49,207057006,[D]Shortness of breath
+50,207059009,[D]Dyspnea
+51,207062007,[D]Breathlessness
+52,230145002,Difficulty breathing
+53,23141003,Gasping for breath
+54,248548009,Nocturnal dyspnea
+55,248549001,Labored breathing
+56,248550001,Cannot breathe deeply enough
+57,248551002,Cannot blow
+58,248552009,Winded
+59,248564001,Pursed-lip breathing
+60,248567008,Indrawing of ribs during respiration
+61,248569006,Sternal recession
+62,248578000,Sobbing respiration
+63,24921003,Dyspnea raising arms
+64,25209001,Inspiratory dyspnea
+65,267036007,Dyspnea
+66,271620003,Accessory respiratory muscles used
+67,271621004,Stertorous breathing
+68,271825005,Respiratory distress
+69,276859008,Suprasternal recession
+70,297216006,Increasing breathlessness
+71,301820005,Finding of respiratory effort
+72,30744009,Platypnea
+73,308149007,[D]Breathlessness
+74,34560001,Expiratory dyspnea
+75,373895009,Acute respiratory distress
+76,389324009,Short of breath dressing/undressing
+77,389325005,Breathless - strenuous exertion
+78,389326006,MRC Breathlessness Scale: grade 1
+79,389327002,MRC Breathlessness Scale: grade 2
+80,389328007,MRC Breathlessness Scale: grade 3
+81,389329004,MRC Breathlessness Scale: grade 4
+82,389330009,MRC Breathlessness Scale: grade 5
+83,390057009,Short of breath dressing/undressing
+84,390058004,Breathless - strenuous exertion
+85,390059007,MRC Breathlessness Scale: grade 1
+86,390060002,MRC Breathlessness Scale: grade 2
+87,390061003,MRC Breathlessness Scale: grade 3
+88,390062005,MRC Breathlessness Scale: grade 4
+89,390063000,MRC Breathlessness Scale: grade 5
+90,390870001,Short of breath dressing/undressing
+91,390871002,Breathless - strenuous exertion
+92,391120009,Medical Research Council Dyspnoea scale grade 1
+93,391123006,Medical Research Council Dyspnoea scale grade 2
+94,391124000,Medical Research Council Dyspnoea scale grade 3
+95,391125004,Medical Research Council Dyspnoea scale grade 4
+96,391126003,Medical Research Council Dyspnoea scale grade 5
+97,394878001,On examination - sternal recession
+98,394879009,On examination - intercostal recession
+99,394880007,On examination - subcostal recession
+100,394881006,On examination - suprasternal recession
+101,39950000,"Dyspnea, class III"
+102,401279002,Borg Breathlessness Score: 1 very slight
+103,401280004,Borg Breathlessness Score: 2 slight
+104,401281000,Borg Breathlessness Score: 3 moderate
+105,401282007,Borg Breathlessness Score: 4 somewhat severe
+106,401284008,Borg Breathlessness Score: 5 severe
+107,401286005,Borg Breathlessness Score: 6 severe (+)
+108,401290007,Borg Breathlessness Score: 7 very severe
+109,401291006,Borg Breathlessness Score: 8 very severe (+)
+110,401292004,"Borg Breathlessness Score: 9 very, very severe (almost maximal)"
+111,401293009,Borg Breathlessness Score: 10 maximal
+112,401323002,"Borg Breathlessness Score: 0.5 very, very slight (just noticeable)"
+113,407588003,Unable to complete a sentence in one breath
+114,45591000000101,Borg Breathlessness Score: 1 very slight
+115,45601000000107,Borg Breathlessness Score: 2 slight
+116,45611000000109,Borg Breathlessness Score: 3 moderate
+117,45651000000108,Borg Breathlessness Score: 5 severe
+118,45671000000104,Borg Breathlessness Score: 6 severe (+)
+119,45721000000109,Borg Breathlessness Score: 7 very severe
+120,45731000000106,Borg Breathlessness Score: 8 very severe (+)
+121,45741000000102,"Borg Breathlessness Score: 9 very, very severe (almost maximal)"
+122,45751000000104,Borg Breathlessness Score: 10 maximal
+123,49233005,Dyspnea
+124,497941000000108,[D]Orthopnoea
+125,497981000000100,[D]Respiratory distress
+126,498001000000107,[D]Shortness of breath
+127,498021000000103,[D]Dyspnoea
+128,502631000000100,[D]Breathlessness
+129,55442000,Paroxysmal nocturnal dyspnea
+130,572661000000100,Breathlessness NOS
+131,57769004,Dyspnea after eating
+132,59265000,Paroxysmal dyspnea
+133,60845006,Dyspnea on exertion
+134,62744007,Orthopnea
+135,6442005,Intercostal recession
+136,67909005,Chest wall retraction
+137,702535006,Anxiety about breathlessness
+138,702581006,Difficulty eating due to breathlessness
+139,719413006,Breathlessness care management
+140,719415004,Breathlessness care
+141,719416003,Opioid therapy for breathlessness management
+142,72365000,"Dyspnea, class II"
+143,73322006,"Dyspnea, class IV"
+144,8453006,Subcostal recession
+145,852051000000107,Minimal breathlessness
+146,870535009,Chronic dyspnea
+147,887741000000102,Anxiety about breathlessness
+148,887751000000104,Anxiety about breathlessness 
+149,888131000000106,Breathlessness causing difficulty eating
+150,888141000000102,Breathlessness causing difficulty eating 

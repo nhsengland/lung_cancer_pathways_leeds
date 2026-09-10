@@ -1,0 +1,428 @@
+,code,term
+0,1051301000000101,"Computed tomography of thorax, abdomen and pelvis with oral contrast only"
+1,1094061000000105,Plain X-ray of excised tissue of bilateral breasts
+2,1097521000000102,Single photon emission computed tomography using technetium 99m tetrofosmin with computed tomography of myocardial perfusion
+3,1098431000000100,"Single photon emission computed tomography using technetium 99m-3,3-diphosphono-1,2-propanodicarboxylic acid with computed tomography of cardiac amyloidosis"
+4,1101641000000108,Computed tomography of left atrial appendage with contrast
+5,1105171000000105,Gated computed tomography of thoracic aorta with contrast
+6,1105231000000100,"Computed tomography of neck, thorax, abdomen and pelvis with oral and intravenous contrast"
+7,1110551000000103,"Computed tomography portal venography of thorax, abdomen and pelvis with contrast"
+8,1110561000000100,Computed tomography portal venography of thorax and abdomen with contrast
+9,1111381000000105,Insertion of magnetic marker into bilateral breasts using plain X-ray guidance
+10,1111411000000107,Insertion of magnetic marker into left breast using plain X-ray guidance
+11,1111421000000101,Insertion of magnetic marker into right breast using plain X-ray guidance
+12,1111431000000104,Pleural phase computed tomography of thorax with contrast
+13,1111791000000108,Insertion of magnetic marker into breast using plain X-ray guidance
+14,113105001,Computed tomography of thoracic spine with contrast
+15,11341000087106,Computed tomography of right acromioclavicular joint
+16,11441000087103,Computed tomography of left acromioclavicular joint
+17,1148041000000101,Insertion of fiducial marker into left lung using computed tomography guidance
+18,1148051000000103,Insertion of fiducial marker into right lung using computed tomography guidance
+19,1148061000000100,Insertion of fiducial marker into bilateral lungs using computed tomography guidance
+20,1148700003,"Computed tomography of thorax, abdomen and pelvis with intravenous contrast"
+21,1149111000000105,Cementoplasty of left glenoid using computed tomography guidance
+22,1149121000000104,Cementoplasty of right glenoid using computed tomography guidance
+23,1156264009,Percutaneous fine needle aspiration biopsy of lung using computed tomography guidance
+24,1157121000000106,Percutaneous microwave ablation of lesion of left lung using computed tomography guidance
+25,11661000087104,Computed tomography of bilateral acromioclavicular joints
+26,1167361000000109,Percutaneous microwave ablation of lesion of right lung using computed tomography guidance
+27,1167381000000100,Percutaneous microwave ablation of lesion of bilateral lungs using computed tomography guidance
+28,1196924006,"Computed tomography of head, neck and thorax"
+29,1196925007,"Computed tomography of head, neck and thorax with contrast"
+30,12141000087103,Computed tomography angiography of neck and thorax with contrast
+31,1251531008,Plain X-ray of bone structure of rib
+32,1251644008,Computed tomography discography with injection of contrast into intervertebral disc of thoracic spine
+33,1290552001,Plain X-ray of acromioclavicular joint
+34,1290580004,Plain X-ray of entire clavicle
+35,1290581000,Plain X-ray of humerus and bone of shoulder girdle
+36,1290582007,Plain X-ray of shoulder girdle
+37,1290583002,Plain X-ray of bone of shoulder girdle
+38,1290586005,"Plain X-ray of bone structure of rib, clavicle and sternum"
+39,1290587001,Plain X-ray of sternoclavicular joint
+40,1290958008,Serial plain X-ray of chest
+41,1290961009,"Plain X-ray of chest, lateral"
+42,1290962002,"Plain X-ray of chest, oblique"
+43,1290963007,"Plain X-ray of chest, combined posteroanterior and lateral"
+44,1290964001,Plain X-ray of soft tissue of chest
+45,1290965000,Plain X-ray of soft tissue of chest wall
+46,1290970007,Plain X-ray of heart
+47,1290971006,Plain X-ray of diaphragm
+48,1295209004,Plain X-ray of sternum
+49,1295210009,Plain X-ray of thoracic cage
+50,1295279000,Plain X-ray of chest wall
+51,1295397006,Postmortem plain X-ray of heart
+52,1295454000,Plain X-ray of bone of bilateral ribs
+53,1332066007,Fine needle aspiration biopsy of right breast using plain X-ray guidance
+54,1332067003,Fine needle aspiration biopsy and core needle biopsy of right breast using plain X-ray guidance
+55,1333891002,Fine needle aspiration biopsy of left breast using plain X-ray guidance
+56,1333892009,Fine needle aspiration biopsy of bilateral breasts using plain X-ray guidance
+57,1333893004,Prone fine needle aspiration biopsy of left breast using stereotactic plain X-ray guidance
+58,1333894005,Prone fine needle aspiration biopsy of right breast using stereotactic plain X-ray guidance
+59,1333895006,Prone fine needle aspiration biopsy of bilateral breasts using stereotactic plain X-ray guidance
+60,1333896007,Prone fine needle aspiration biopsy and core needle biopsy of left breast using stereotactic plain X-ray guidance
+61,1333897003,Prone fine needle aspiration biopsy and core needle biopsy of right breast using stereotactic plain X-ray guidance
+62,1333898008,Prone fine needle aspiration biopsy and core needle biopsy of bilateral breasts using stereotactic plain X-ray guidance
+63,1333899000,Upright fine needle aspiration biopsy and core needle biopsy of left breast using stereotactic plain X-ray guidance
+64,1333900005,Upright fine needle aspiration biopsy and core needle biopsy of right breast using stereotactic plain X-ray guidance
+65,1333901009,Upright fine needle aspiration biopsy and core needle biopsy of bilateral breasts using stereotactic plain X-ray guidance
+66,1333902002,Fine needle aspiration biopsy and core needle biopsy of left breast using plain X-ray guidance
+67,1333903007,Fine needle aspiration biopsy and core needle biopsy of bilateral breasts using plain X-ray guidance
+68,1333904001,Upright fine needle aspiration biopsy of left breast using stereotactic plain X-ray guidance
+69,1333905000,Upright fine needle aspiration biopsy of right breast using stereotactic plain X-ray guidance
+70,1333906004,Upright fine needle aspiration biopsy of bilateral breasts using stereotactic plain X-ray guidance
+71,1343345001,Computed tomography of fistula of chest wall with contrast
+72,1343474009,Computed tomography of pericardium
+73,1343475005,Computed tomography of pericardium with contrast
+74,1344601004,Computed tomography of bilateral bronchi with contrast
+75,1344604007,Computed tomography of right bronchus with contrast
+76,1344606009,Computed tomography of left bronchus with contrast
+77,1344608005,Computed tomography of bronchus with contrast
+78,1344647007,Plain X-ray of clavicular region
+79,1354574006,Plain X-ray of soft tissue of breast
+80,1356791009,Vacuum assisted biopsy of breast using stereotactic plain X-ray guidance
+81,1356882000,Percutaneous laser ablation of lesion of lung using computed tomography guidance
+82,145878009,Standard chest X-ray
+83,145880003,Chest X-ray normal (& standard)
+84,145881004,Standard chest X-ray abnormal
+85,145882006,Standard chest X-ray NOS
+86,146289004,CT of chest
+87,148411000000108,Ex vivo plain X-ray of lung
+88,148444009,Screening chest X-ray
+89,15241000087104,Computed tomography of right rib
+90,15251000087101,Computed tomography of left rib
+91,15261000087103,Computed tomography of bilateral ribs
+92,15271000087107,Biopsy of left scapula using computed tomography guidance
+93,15281000087109,Biopsy of right scapula using computed tomography guidance
+94,153011000000109,Computed tomography angiography of aortic arch and bilateral carotid arteries with contrast
+95,15331000087102,Computed tomography of bilateral ribs with contrast
+96,155981000000102,Core needle biopsy of bilateral breasts using plain X-ray guidance
+97,155991000000100,Core needle biopsy of left breast using plain X-ray guidance
+98,156001000000101,Core needle biopsy of right breast using plain X-ray guidance
+99,156011000000104,Wire localization of lesions of bilateral breasts using plain X-ray guidance
+100,156021000000105,Wire localization of lesion of left breast using plain X-ray guidance
+101,156031000000107,Wire localization of lesion of right breast using plain X-ray guidance
+102,156041000000103,Prone core needle biopsy of bilateral breasts using stereotactic plain X-ray guidance
+103,156051000000100,Prone core needle biopsy of left breast using stereotactic plain X-ray guidance
+104,156061000000102,Prone core needle biopsy of right breast using stereotactic plain X-ray guidance
+105,156071000000109,Prone wire localization of lesion of bilateral breasts using stereotactic plain X-ray guidance
+106,156081000000106,Prone wire localization of lesion of left breast using stereotactic plain X-ray guidance
+107,156091000000108,Prone wire localization of lesion of right breast using stereotactic plain X-ray guidance
+108,156101000000100,Upright core needle biopsy of bilateral breasts using stereotactic plain X-ray guidance
+109,156111000000103,Upright core needle biopsy of left breast using stereotactic plain X-ray guidance
+110,156121000000109,Upright core needle biopsy of right breast using stereotactic plain X-ray guidance
+111,156131000000106,Upright wire localization of lesions of bilateral breasts using stereotactic plain X-ray guidance
+112,156141000000102,Upright wire localization of lesion of left breast using stereotactic plain X-ray guidance
+113,156151000000104,Upright wire localization of lesion of right breast using stereotactic plain X-ray guidance
+114,156161000000101,Upright vacuum assisted biopsy of bilateral breasts using stereotactic plain X-ray guidance
+115,156171000000108,Upright vacuum assisted biopsy of left breast using stereotactic plain X-ray guidance
+116,156181000000105,Upright vacuum assisted biopsy of right breast using stereotactic plain X-ray guidance
+117,156621000000102,Radiofrequency biopsy of bilateral breasts using plain X-ray guidance
+118,156631000000100,Radiofrequency biopsy of left breast using plain X-ray guidance
+119,156641000000109,Radiofrequency biopsy of right breast using plain X-ray guidance
+120,156681000000101,Insertion of marker into bilateral breasts using plain X-ray guidance
+121,156691000000104,Insertion of marker into left breast using plain X-ray guidance
+122,156701000000104,Insertion of marker into right breast using plain X-ray guidance
+123,156751000000103,Prone vacuum assisted biopsy of left breast using stereotactic plain X-ray guidance
+124,156761000000100,Prone vacuum assisted biopsy of right breast using stereotactic plain X-ray guidance
+125,156771000000107,Prone vacuum assisted biopsy of bilateral breasts using stereotactic plain X-ray guidance
+126,156811000000107,Localization of iodine 125 radioactive seed to lesions of bilateral breasts using plain X-ray guidance
+127,156821000000101,Localization of iodine 125 radioactive seed to lesion of left breast using plain X-ray guidance
+128,156831000000104,Localization of iodine 125 radioactive seed to lesion of right breast using plain X-ray guidance
+129,156871000000102,Computed tomography of left breast with contrast for radiotherapy planning
+130,156881000000100,Computed tomography of right breast with contrast for radiotherapy planning
+131,156891000000103,Computed tomography of bilateral breasts with contrast for radiotherapy planning
+132,156901000000102,Vacuum assisted excision of lesion of left breast using stereotactic plain X-ray guidance
+133,156911000000100,Vacuum assisted excision of lesion of right breast using stereotactic plain X-ray guidance
+134,156921000000106,Vacuum assisted excision of lesions of bilateral breasts using stereotactic plain X-ray guidance
+135,156961000000103,Radiofrequency biopsy of left breast using stereotactic plain X-ray guidance
+136,156971000000105,Radiofrequency biopsy of right breast using stereotactic plain X-ray guidance
+137,156981000000107,Radiofrequency biopsy of bilateral breasts using stereotactic plain X-ray guidance
+138,157921000000108,Computed tomography of bilateral sternoclavicular joints
+139,16321631000119108,Computed tomography angiography of neck and chest and abdomen with contrast
+140,16326461000119108,Computed tomography angiography of chest and abdomen with contrast
+141,16332841000119106,Computed tomography angiography of pulmonary artery with contrast
+142,16334791000119101,Computed tomography of sternum without contrast
+143,16334891000119106,Low dose computed tomography of chest without contrast
+144,16335031000119103,High resolution computed tomography of chest without contrast
+145,16439801000119108,Computed tomography of heart with contrast for cardiac structure and morphology
+146,16462121000119108,Computed tomography angiography of thorax and abdomen and pelvis with contrast
+147,16545381000119101,Single photon emission computed tomography of myocardial perfusion with computed tomography
+148,16549591000119109,Percutaneous biopsy of right lung using computed tomography guidance
+149,16549641000119100,Percutaneous biopsy of left lung using computed tomography guidance
+150,16551191000119104,Percutaneous fine needle aspiration biopsy of chest using computed tomography guidance
+151,16554411000119104,Positron emission tomography with computed tomography of heart
+152,16559081000119104,Cryoablation of lesion of lung using computed tomography guidance
+153,1659511000000101,Insertion of magnetic marker into breast using digital tomosynthesis guidance
+154,1659581000000108,Insertion of guide wire into breast using digital tomosynthesis guidance
+155,1659611000000102,Insertion of guide wire into left breast using digital tomosynthesis guidance
+156,1659621000000108,Insertion of guide wire into right breast using digital tomosynthesis guidance
+157,1659631000000105,Vacuum assisted biopsy of breast using digital tomosynthesis guidance
+158,1659641000000101,Vacuum assisted biopsy of left breast using digital tomosynthesis guidance
+159,1659651000000103,Vacuum assisted biopsy of right breast using digital tomosynthesis guidance
+160,1659661000000100,Vacuum assisted biopsy of bilateral breasts using digital tomosynthesis guidance
+161,168594001,Plain X-ray of clavicle
+162,168731009,Standard chest X-ray
+163,168733007,Standard chest X-ray normal
+164,168734001,Standard chest X-ray abnormal
+165,168735000,Standard chest X-ray NOS
+166,168745003,Plain X-ray of thoracic aorta
+167,16900311000119102,Computed tomography of chest abnormal
+168,169069000,Computed tomography of chest
+169,171229005,Screening plain X-ray of chest
+170,1771571000000102,Digital tomosynthesis of chest
+171,1771741000000104,Vacuum assisted excision of right breast using digital breast tomosynthesis guidance
+172,1771761000000103,Electrocardiogram gated computed tomography venography of cardiac vein with contrast
+173,1809731000000101,Percutaneous cryoablation of neoplasm of bilateral lungs using computed tomography guidance
+174,181051000000100,Computed tomography angiography of bilateral subclavian arteries with contrast
+175,181091000000108,Computed tomography angiography of left subclavian artery with contrast
+176,181131000000106,Computed tomography angiography of right subclavian artery with contrast
+177,1812601000000107,Vacuum assisted excision of left breast using digital breast tomosynthesis guidance
+178,1812611000000109,Vacuum assisted excision of bilateral breasts using digital breast tomosynthesis guidance
+179,1819971000000103,Percutaneous cryoablation of neoplasm of left lung using computed tomography guidance
+180,1830211000000101,Percutaneous cryoablation of neoplasm of right lung using computed tomography guidance
+181,1833191000000109,Measurement of fractional flow reserve using computed tomography angiography of coronary artery with contrast
+182,18361000087102,Biopsy of right rib using computed tomography guidance
+183,183971000000109,CT of chest and abdomen
+184,183981000000106,"CT of chest, abdomen and pelvis"
+185,18401000087108,Biopsy of left rib using computed tomography guidance
+186,1853581000000100,Computed tomography angiography with contrast for insertion of valve prosthesis into vena cava superior and inferior planning
+187,1892351000000104,Percutaneous irreversible electroporation ablation of neoplasm of left lung using computed tomography guidance
+188,1892361000000101,Percutaneous irreversible electroporation ablation of neoplasm of right lung using computed tomography guidance
+189,1892371000000108,Percutaneous irreversible electroporation ablation of neoplasm of bilateral lungs using computed tomography guidance
+190,1892731000000107,Computed tomography angiography of left bronchial artery with contrast
+191,1892741000000103,Computed tomography angiography of right bronchial artery with contrast
+192,1892751000000100,Computed tomography angiography of bilateral bronchial arteries with contrast
+193,1893801000000101,Plain X-ray of bilateral sternoclavicular joints
+194,20021000087104,Computed tomography of right scapula
+195,2007251000000107,Computed tomography angiography of coronary arteries and aorta with contrast
+196,20111000087108,Computed tomography of left scapula
+197,20331000087100,Computed tomography of bilateral scapulae
+198,20411000087104,Computed tomography of left scapula with contrast
+199,20421000087107,Computed tomography of right scapula with contrast
+200,20501000087102,Computed tomography of bilateral scapulae with contrast
+201,241539009,Computed tomography of breast
+202,241540006,Computed tomography of lungs
+203,241541005,High resolution computed tomography of lungs
+204,241542003,Computed tomography of lungs with diagnostic pneumothorax
+205,241543008,Computed tomography of mediastinum
+206,241546000,Computed tomography of thoracic inlet
+207,241547009,Computed tomography of heart
+208,241579000,Computed tomography of thoracic spine
+209,241591009,Computed tomography myelogram of thoracic region
+210,245891000000105,Single photon emission computed tomography with computed tomography left scintimammography
+211,246531000000100,Single photon emission computed tomography with computed tomography right scintimammography
+212,2611951000000103,Percutaneous radiofrequency ablation of lesion of lung using cone beam computed tomography guidance
+213,2611961000000100,Percutaneous radiofrequency ablation of lesion of left lung using cone beam computed tomography guidance
+214,2611971000000107,Percutaneous radiofrequency ablation of lesion of right lung using cone beam computed tomography guidance
+215,2612051000000105,Percutaneous radiofrequency ablation of lesions of bilateral lungs using cone beam computed tomography guidance
+216,2612131000000104,Percutaneous microwave ablation of lesion of lung using cone beam computed tomography guidance
+217,2612141000000108,Percutaneous microwave ablation of lesion of left lung using cone beam computed tomography guidance
+218,2612151000000106,Percutaneous microwave ablation of lesion of right lung using cone beam computed tomography guidance
+219,2612161000000109,Percutaneous microwave ablation of lesions of bilateral lungs using cone beam computed tomography guidance
+220,268449009,Chest X-ray normal (& standard)
+221,270481000000101,CT of chest 
+222,270501000000105,Chest X-ray 
+223,303662009,Computed tomography of intrathoracic structures
+224,303663004,Computed tomography of thoracic skeleton
+225,303664005,Special computed tomography procedure of thoracic region
+226,303665006,Computed tomography of aortic arch and great vessels
+227,303668008,Computed tomography of intrathoracic respiratory structures
+228,303669000,Computed tomography of intrathoracic cardiovascular structures
+229,303931008,Plain X-ray of lung
+230,305011000000108,Core needle biopsy of breast using plain X-ray guidance
+231,305051000000107,Fine needle aspiration biopsy of breast using plain X-ray guidance
+232,305071000000103,Fine needle aspiration biopsy and core needle biopsy of breast using plain X-ray guidance
+233,306371000000109,Prone fine needle aspiration biopsy and core needle biopsy of breast using stereotactic plain X-ray guidance
+234,306381000000106,Prone core needle biopsy of breast using stereotactic plain X-ray guidance
+235,306391000000108,Prone wire localization of lesion of breast using stereotactic plain X-ray guidance
+236,306641000000107,Upright core needle biopsy of breast using stereotactic plain X-ray guidance
+237,306651000000105,Upright fine needle aspiration biopsy and core needle biopsy of breast using stereotactic plain X-ray guidance
+238,306661000000108,Upright wire localization of lesion of breast using stereotactic plain X-ray guidance
+239,306671000000101,Upright fine needle aspiration biopsy of breast using stereotactic plain X-ray guidance
+240,307971000000105,Prone vacuum assisted biopsy of breast using stereotactic plain X-ray guidance
+241,307981000000107,Upright vacuum assisted biopsy of breast using stereotactic plain X-ray guidance
+242,308041000000102,Prone fine needle aspiration biopsy of breast using stereotactic plain X-ray guidance
+243,315941000000105,Computerised tomography of chest with high resolution
+244,316584002,[V]Radiological examination NEC
+245,3461000087100,Plain X-ray of left acromioclavicular joint
+246,3471000087109,Plain X-ray of right acromioclavicular joint
+247,3501000087100,Plain X-ray of left clavicle
+248,3511000087103,Plain X-ray of right clavicle
+249,363273001,Radiographic procedure on chest
+250,3741000087108,Plain X-ray of left scapula
+251,3751000087106,Plain X-ray of right scapula
+252,383501000119107,"Plain X-ray of chest, apical and lordotic views"
+253,393091000119105,Computed tomography of neck and chest without contrast
+254,393161000119104,"Computed tomography of chest, abdomen and pelvis without contrast"
+255,394421000119103,"Plain X-ray of chest, anteroposterior view"
+256,395081000119108,Computed tomography of chest without contrast
+257,3961000087106,Plain X-ray of bilateral acromioclavicular joints
+258,3981000087100,Plain X-ray of bilateral clavicles
+259,399208008,Plain X-ray of chest
+260,408041000119104,Percutaneous needle biopsy of pleura using computed tomography guidance
+261,4101000087106,Plain X-ray of bilateral scapulae
+262,411251000119104,Computed tomography angiography of chest with contrast
+263,411661000119104,"Computed tomography of neck, chest, abdomen and pelvis without contrast"
+264,417973009,Computed tomography of acromioclavicular joint
+265,418023006,"Computed tomography of chest, abdomen and pelvis"
+266,418332004,"Computed tomography of neck, thorax, abdomen and pelvis"
+267,418891003,Computed tomography of chest and abdomen
+268,4191000087102,Computed tomography of left clavicle
+269,419545005,Computed tomography angiography of coronary artery with contrast
+270,419976007,Computed tomography of sternoclavicular joint
+271,420017001,Computed tomography angiography of aortic arch and carotid artery with contrast
+272,4201000087100,Computed tomography of right clavicle
+273,420233006,Plain X-ray of chest and abdomen
+274,426005005,Cardiac computed tomography for calcium scoring
+275,426730003,Computed tomography angiography of thorax with contrast
+276,427101000119106,Computed tomography of chest and abdomen without contrast
+277,428907005,Wire localization of lesion of breast using plain X-ray guidance
+278,429851006,Computed tomography of thorax for radiotherapy planning
+279,429864007,Computed tomography of thorax and abdomen with contrast
+280,429866009,Computed tomography of breast for radiotherapy planning
+281,429872009,Cementoplasty of glenoid using computed tomography guidance
+282,429874005,Computed tomography of sternum
+283,429927002,Computed tomography of neck and thorax with contrast
+284,429932001,Biopsy of lung using computed tomography guidance
+285,430439002,"Computed tomography of neck, thorax and abdomen"
+286,430441001,Computed tomography of mediastinum with contrast
+287,430446006,Injection of thoracic spinal nerve root using computed tomography guidance
+288,430448007,Computed tomography of neck and thorax
+289,430454008,Injection of thoracic zygapophyseal joint using computed tomography guidance
+290,431190000,Respiratory and electrocardiography gated cardiac computed tomography of heart
+291,432552002,Computed tomography of clavicle
+292,432665004,Computed tomography of scapula
+293,432731007,Thoracic epidural injection using computed tomography guidance
+294,432769002,Plain X-ray of chest using mobile image intensifier
+295,432903006,Kyphoplasty of fracture of thoracic spine using computed tomography guidance
+296,433034001,Vertebroplasty of thoracic spine using computed tomography guidance
+297,433270008,"Computed tomography of neck, thorax and abdomen with contrast"
+298,433761009,"Computed tomography of thorax, abdomen and pelvis with contrast"
+299,434438003,"Computed tomography of neck, thorax, abdomen and pelvis with contrast"
+300,439475006,Computed tomography venography of pulmonary vein with contrast
+301,439476007,Drainage of thorax using computed tomography guidance
+302,440331001,"Computed tomography of head, neck, thorax, abdomen and pelvis"
+303,440491000,Biopsy of thorax using computed tomography guidance
+304,440513001,Computed tomography angiography of subclavian artery with contrast
+305,442958007,Incision and drainage of abscess of breast using computed tomography guidance
+306,442979007,Insertion of pleural tube using computed tomography guidance
+307,443145004,Single photon emission computed tomography with computed tomography of lung
+308,443215008,Single photon emission computed tomography with computed tomography cardiac stress ventriculography
+309,443237001,Single photon emission computed tomography with computed tomography of perfusion of lung
+310,443249000,Positron emission tomography with computed tomography of heart for cardiac viability using fluorodeoxyglucose
+311,443275001,Single photon emission computed tomography with computed tomography scintimammography
+312,443277009,Positron emission tomography using nitrogen 13 ammonia with computed tomography electrocardiography gated myocardial rest study
+313,443300009,Positron emission tomography using fluorodeoxyglucose with computed tomography electrocardiography gated myocardial rest study
+314,443368004,Single photon emission computed tomography with computed tomography ventriculography at cardiac rest
+315,443386001,Single photon emission computed tomography with computed tomography of ventilation of lung
+316,443396005,Pneumonostomy with open drainage of abscess of lung using computed tomography guidance
+317,443534009,Positron emission tomography using fluorodeoxyglucose with computed tomography myocardial rest imaging
+318,443535005,Positron emission tomography using nitrogen 13 ammonia with computed tomography myocardial rest study
+319,443537002,Single photon emission computed tomography with computed tomography of bone of thorax
+320,443561009,Single photon emission using iodine 123 meta-iodobenzylguanidine computed tomography with computed tomography of heart
+321,444630003,"Computed tomography of head, neck, thorax, abdomen and pelvis with contrast"
+322,444633001,"Computed tomography of head, thorax and abdomen"
+323,444674001,"Computed tomography of head, thorax, abdomen and pelvis with contrast"
+324,444708006,Computed tomography of head and thorax
+325,444709003,Computed tomography of head and thorax with contrast
+326,444758004,"Computed tomography of head, thorax and abdomen with contrast"
+327,444811001,Radiofrequency ablation of lesion of lung using computed tomography guidance
+328,444970007,Computed tomography angiography of thoracic aorta with contrast
+329,445583005,"Computed tomography of head, thorax, abdomen and pelvis"
+330,448336005,Radiofrequency biopsy of breast using plain X-ray guidance
+331,448345006,Computed tomography perfusion study of thorax
+332,448431001,Gated computed tomography of heart with contrast
+333,448760006,Computed tomography of head and neck and thorax and abdomen with contrast
+334,448766000,"Computed tomography angiography of pulmonary artery, abdominal artery and pelvic artery with contrast"
+335,450506009,Computed tomography angiography of coronary artery bypass graft with contrast
+336,468621000000108,[V]Radiological examination NEC
+337,473198008,Gated computed tomography of heart with contrast for congenital heart disease
+338,4781000087100,Computed tomography of bilateral clavicles
+339,4791000087103,Computed tomography of bilateral clavicles with contrast
+340,4801000087104,Computed tomography of left clavicle with contrast
+341,4811000087102,Computed tomography of right clavicle with contrast
+342,486261000119109,"Plain X-ray of chest, posteroanterior"
+343,492661000119109,Computed tomography of sternoclavicular joint without contrast
+344,504981000119108,Computed tomography of heart without contrast with calcium scoring
+345,549941000000103,Standard chest X-ray NOS
+346,55587003,Radiography of chest
+347,56350004,Routine chest X-ray
+348,572081000119108,Computed tomography of thoracic spine without contrast
+349,58211000087104,"Computed tomography of thoracic, lumbar and sacral spine"
+350,588111000119108,Computed tomography myelogram of thoracic spine with lumbar injection of contrast
+351,609171001,Percutaneous cryoablation of neoplasm of lung using computed tomography guidance
+352,6151000087103,Plain X-ray of bone of left rib
+353,6161000087100,Plain X-ray of bone of right rib
+354,6481000087102,Biopsy of left lung using computed tomography guidance
+355,6491000087100,Biopsy of right lung using computed tomography guidance
+356,702485004,Computed tomography of cervical and thoracic spine
+357,702486003,Computed tomography of cervical and thoracic spine with contrast
+358,702487007,Computed tomography of thoracic and lumbar spine
+359,702488002,Computed tomography of thoracic and lumbar spine with contrast
+360,702493004,Computed tomography of clavicle with contrast
+361,702506003,Computed tomography of sternoclavicular joint with contrast
+362,702507007,Computed tomography of sternum with contrast
+363,709787009,Thoracentesis using computed tomography guidance
+364,710073000,"Computed tomography angiography of head, neck and thorax with contrast"
+365,711278009,"Computed tomography of head, neck, thorax and abdomen"
+366,711367004,Biopsy of rib using computed tomography guidance
+367,712732000,Biopsy of scapula using computed tomography guidance
+368,712738001,Computed tomography of scapula with contrast
+369,712813004,Computed tomography angiography of vascular structure of thoracic spine with contrast
+370,712855008,"Computed tomography of head, cervical and thoracic spine"
+371,713028008,Plain X-ray of scapula
+372,713548006,Low dose computed tomography of thorax
+373,713553001,Single photon emission computed tomography using gallium 67 with computed tomography of thorax
+374,713559002,Single photon emission computed tomography with computed tomography of thorax using indium (111-In) radiolabeled octreotide
+375,713564003,Localization of iodine 125 radioactive seed to lesion of breast using plain X-ray guidance
+376,713680003,Computed tomography of rib
+377,714977007,Single photon emission computed tomography using iodine 123 meta-iodobenzylguanidine with computed tomography of thorax
+378,715247002,Computed tomography of thoracic spine for radiotherapy planning
+379,715292009,Computed tomography of breast with contrast for radiotherapy planning
+380,715494008,Computed tomography of thorax with contrast for radiotherapy planning
+381,715682008,Computed tomography of thorax for brachytherapy planning
+382,716755000,Percutaneous irreversible electroporation ablation of neoplasm of lung using computed tomography guidance
+383,717343004,Aspiration of chest using cone beam computed tomography guidance
+384,717690007,Insertion of drain into chest using cone beam computed tomography guidance
+385,717978008,Opacity of bilateral lungs on plain chest X-ray
+386,717994001,Biopsy of chest using cone beam computed tomography guidance
+387,718014000,Cone beam computed tomography of chest
+388,718020004,X-ray tomography of sternum
+389,719573001,Vacuum assisted excision of lesion of breast using stereotactic plain X-ray guidance
+390,721040001,Dual energy computed tomography of thorax
+391,721041002,"Dual energy computed tomography of thorax, abdomen and pelvis"
+392,721043004,"Dual energy computed tomography of neck, thorax, abdomen and pelvis"
+393,721044005,Dual energy computed tomography angiography of pulmonary artery with contrast
+394,724089005,X-ray tomography of left rib
+395,724222006,X-ray tomography of right rib
+396,725936002,Radiofrequency biopsy of breast using stereotactic plain X-ray guidance
+397,726077005,Computed tomography angiography of bronchial artery with contrast
+398,726421000000105,Computed tomography of chest and abdomen
+399,726431000000107,Computed tomography of chest and abdomen 
+400,726501000000102,"Computed tomography of chest, abdomen and pelvis"
+401,726511000000100,"Computed tomography of chest, abdomen and pelvis "
+402,726552004,"Computed tomography of thorax, abdomen and pelvis with oral contrast"
+403,75385009,Computed tomography of thorax with contrast
+404,759371000000108,Tuberculosis screening chest X-ray abnormal
+405,759381000000105,Tuberculosis screening chest X-ray abnormal 
+406,759391000000107,Tuberculosis screening chest X-ray normal
+407,759401000000105,Tuberculosis screening chest X-ray normal 
+408,764579002,Computed tomography of heart with contrast
+409,764970007,Retrospectively electrocardiogram gated computed tomography angiography of coronary artery with contrast
+410,765113006,Prospectively electrocardiogram gated computed tomography angiography of coronary artery with contrast
+411,771085003,Gated positron emission tomography with computed tomography of heart using sodium fluoride (18-F)
+412,772218003,Mobile intraoperative three-dimensional computed tomography of thoracic spine
+413,772821000000105,Gated computed tomography for complex congenital heart disease with contrast
+414,788429002,Positron emission tomography with computed tomography myocardial rest imaging using rubidium-82
+415,788431006,Positron emission tomography with computed tomography myocardial stress imaging using rubidium-82
+416,819801000000103,Percutaneous microwave ablation of lesion of lung using computed tomography guidance
+417,829831000000100,Insertion of fiducial marker into lung using computed tomography guidance
+418,836381000000102,Insertion of marker into breast using plain X-ray guidance
+419,844031000000106,Insertion of fiducial marker into chest using computed tomography guidance
+420,858161000000109,Electrocardiography gated computed tomography of thorax
+421,858331000000101,Positron emission tomography using fluorodeoxyglucose with computed tomography myocardial stress imaging
+422,868212005,Computed tomography of chest and upper abdomen
+423,868213000,Computed tomography of chest and upper abdomen with contrast
+424,868791000000108,Cone beam computed tomography of chest
+425,924351000000105,Low dose computed tomography of thorax
+426,989481000000102,X-ray skeletal survey of thorax with oblique ribs
